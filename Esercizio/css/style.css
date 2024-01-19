@@ -101,7 +101,7 @@ aside section p {
 
 footer {
   background-color: #25a2c3;
-  color: #c8ef70;
+  color: white;
   font-size: 13px;
   padding: 40px 20px 60px;
 }
@@ -113,4 +113,9 @@ footer div {
 footer div a {
   color: #c8e7f0;
   display: block;
+}
+
+footer p {
+  display: inline-block;
+  border-top: 1px;
 }
